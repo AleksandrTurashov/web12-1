@@ -4,4 +4,4 @@
 
 Состав группы 
 dev Илья 
-aleksandr_turashov Александр
+aleksandr_turashov 
